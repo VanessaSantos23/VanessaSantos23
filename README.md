@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working com back-end
 - 🌱 I am currently studying C# language
-- 🔗 my LinkedIn is https://www.linkedin.com/feed/
 
 <div align="center">
   <a href="https://github.com/VanessaSantos23">
